@@ -1,4 +1,4 @@
-﻿using DesignPatterns.Creational.Singleton;
+﻿using Singleton;
 
 Logger.Instance.Log("Application started...");
 Logger.Instance.Log("Some work was done");

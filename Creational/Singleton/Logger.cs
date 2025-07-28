@@ -1,4 +1,4 @@
-namespace DesignPatterns.Creational.Singleton
+namespace Singleton
 {
     public class Logger
     {
