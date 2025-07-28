@@ -36,7 +36,3 @@ Patterns will be organized into the following groups as they are implemented:
 - Strategy
 - Template Method
 - Visitor
-
-## Project Status
-
-The solution has been created and serves as the foundation for implementing the patterns above. Implementations will be added incrementally.
