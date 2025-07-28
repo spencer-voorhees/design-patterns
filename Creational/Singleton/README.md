@@ -8,4 +8,3 @@ A logger is often used as a globally shared utility that writes logs across the 
 **Key points:**
 - Only one `Logger` instance is ever created.
 - Accessed through `Logger.Instance`.
-- Simplified for clarity (not thread-safe).
