@@ -6,7 +6,7 @@ namespace DesignPatterns.Creational.Singleton
 
         private readonly object _lock = new();
 
-        public static Logger Instance = _instance.Value;
+        public static Logger Instance => _instance.Value;
 
         private Logger() { }
 
